@@ -8,7 +8,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author loned
+ * Jose Ignacio Goidno
  */
 public class Agenda {
 
